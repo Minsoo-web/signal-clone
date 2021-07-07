@@ -1,3 +1,4 @@
+*.cache
 firebase.js
 node_modules/
 .expo/
